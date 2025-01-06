@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Aditi7088
-- 👀 I’m interested in Maths, programming, data science and books.
-- 🌱 I’m currently learning and growing everyday.
-- 💞️ I’m looking to for my first job and constantly working on something cool.
-- 📫 How to reach me aditichaudhary722@gmail.com
+
